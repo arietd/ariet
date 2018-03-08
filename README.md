@@ -9,7 +9,7 @@ email: ariet.dzhumashev@gmail.com
 
 [Classification of Cancer Severity](https://github.com/arietd/dataAnalysis/blob/master/cancer_Stage_Classification.ipynb)- Classification of Cancer by severity, this was done as part of an assigment to achieve the best Test score.
 
-[Forecasting the number of Marriages in 2017 using historical data, QLD Australia](https://github.com/arietd/dataAnalysis/blob/master/Queensland_marriages_timeseries.ipynb) - Using time series methods we forecast the number of Marriages in Queelands, Australia in 2017. Forcast could be usefull for wedding businesses. Methods include ARIMA, ETS, Seasonal-Naive. 
+**[Forecasting the number of Marriages in 2017 using historical data, QLD Australia]**(https://github.com/arietd/dataAnalysis/blob/master/Queensland_marriages_timeseries.ipynb) - Using time series methods we forecast the number of Marriages in Queelands, Australia in 2017. Forcast could be usefull for wedding businesses. Methods include ARIMA, ETS, Seasonal-Naive. 
 
 [Analysis of Melbourne house prices(incomple)](https://github.com/arietd/dataAnalysis/blob/master/Melbourne_housing.ipynb) - Exploratory Analysis and use of GGMAP to visualise house prices. 
 
