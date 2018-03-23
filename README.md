@@ -11,7 +11,7 @@ email: ariet.dzhumashev@gmail.com
 
 **[Forecasting the number of Marriages in 2017 using historical data, QLD Australia]**(https://github.com/arietd/dataAnalysis/blob/master/Queensland_marriages_timeseries.ipynb) - Using time series methods we forecast the number of Marriages in Queelands, Australia in 2017. Forcast could be usefull for wedding businesses. Methods include ARIMA, ETS, Seasonal-Naive. 
 
-[Analysis of Melbourne house prices(incomple)](https://github.com/arietd/dataAnalysis/blob/master/Melbourne_housing.ipynb) - Exploratory Analysis and use of GGMAP to visualise house prices. 
+
 
 
 ## Python
@@ -22,8 +22,7 @@ email: ariet.dzhumashev@gmail.com
 
 
 ## Tableau
-[Toilets in the City of Melbourne](https://public.tableau.com/profile/ariet.dzhumashev1262#!/vizhome/MelbournePublicToilets_0/Dashboard1?publish=yes) - Dashboard visualising the toilet locations and types in the city of Melbourne. (Small)
-
+[My Tableau Profile](https://public.tableau.com/profile/ariet.dzhumashev1262#!/)
 
 ## Developement
 
