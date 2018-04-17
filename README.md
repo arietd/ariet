@@ -9,7 +9,7 @@ email: ariet.dzhumashev@gmail.com
 
 [Classification of Cancer Severity](https://github.com/arietd/dataAnalysis/blob/master/cancer_Stage_Classification.ipynb)- Classification of Cancer by severity, this was done as part of an assigment to achieve the best Test score.
 
-**[Forecasting the number of Marriages in 2017 using historical data, QLD Australia](https://github.com/arietd/dataAnalysis/blob/master/Queensland_marriages_timeseries.ipynb)** - Using time series methods we forecast the number of Marriages in Queelands, Australia in 2017. Forcast could be usefull for wedding businesses. Methods include ARIMA, ETS, Seasonal-Naive. 
+**[Forecasting the number of Marriages in 2017 using historical data, QLD Australia](https://github.com/arietd/dataAnalysis/blob/master/Queensland_marriages_timeseries.ipynb)** - Using time series methods we forecast the number of Marriages in Queelands, Australia in 2017. Forecast can be used to predict expenses and staff numbers for the future seasons. Methods include ARIMA, ETS, Seasonal-Naive, NN. 
 
 
 
@@ -26,6 +26,6 @@ email: ariet.dzhumashev@gmail.com
 
 ## Developement
 
-[Document retreival CLI](https://github.com/arietd/VectorSpaceIR) - based on the Vector Space Model written in Java
+[Document retreival CLI](https://github.com/arietd/VectorSpaceIR) - a document retreival system, written in Java. Calculates the similarity score using Vector Space Model. Uses CLI interface and is written in Java.
 
 [Bayan](https://github.com/arietd/Bayan) - Story sharing site written in Ruby on Rails
