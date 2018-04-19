@@ -1,7 +1,13 @@
-# Ariet Dzhumashev
+
 #### Data Analysis Notebooks
 
-I am a Data Science student at Monash University, residing in Melbourne. Here are some examples of my work. Visualisations, scraping and forecasting. I am looking for a position related that will allow me to work with data to find insights that can aid decision making or help understand information.
+I am an aspiring Data Scientist. I graduated from Monash University with a Bachelors in Business Infromation Systems. I have a huge interest in forecasting and studed Data Science for a year as part of Master of Data Science also Monash.
+
+I work mostly in R and Python but do have an interest in branching out to Scala. Other than that I like to use Tableau for visualisations and dashboards. 
+
+If you want to collaborate or just send me some feedback feel free to drop me an email. Your messages and advice is the data I need to improve my model/strategy in working in Analytics. 
+
+
 
 email: ariet.dzhumashev@gmail.com
 
