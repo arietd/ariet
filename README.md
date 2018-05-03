@@ -1,17 +1,19 @@
 
 #### About Me
 
-I am passionate about using data to gain insights into how the world works. I enjoy writing and explaining concept through use of analogies and methaphors. I studied It and later Data Science at Monash. 
+I am passionate about using data to gain insights into how the world works. I enjoy writing and explaining concept through use of analogies and methaphors.
 
+I am currently seeking an Analytics position. 
 
+I am always looking to expand my skillset and work with cool data. Feel free to reach out for collaborations or inquiries. 
 
-I work mostly in R and Python but do have an interest in branching out to Scala. Other than that I like to use Tableau for visualisations and dashboards. 
+email: ariet.dzhumashev@gmail.com 
 
-If you want to collaborate or just send me some feedback feel free to drop me an email. Your messages and advice is the data I need to improve my model/strategy in working in Analytics. 
+alt email: ariet5@hotmail.com
 
+[Linked In](https://www.linkedin.com/in/arietd/)
 
-
-email: ariet.dzhumashev@gmail.com
+Twitter [@ariet_dzh](https://twitter.com/ariet_dzh)
 
 ## Notebooks
 
