@@ -15,6 +15,8 @@ alt email: ariet5@hotmail.com
 
 Twitter [@ariet_dzh](https://twitter.com/ariet_dzh)
 
+[My Medium blog](https://medium.com/@ariet_dzh) - I mainly write about insights I've found
+
 ## Notebooks
 
 **[Forecasting the number of Marriages in 2017 using historical data, QLD Australia](https://github.com/arietd/dataAnalysis/blob/master/Queensland_marriages_timeseries.ipynb)** - Using time series methods we forecast the number of Marriages in Queelands, Australia in 2017. Forecast can be used to predict expenses and staff numbers for the future seasons. Methods include ARIMA, ETS, Seasonal-Naive, NN. 
