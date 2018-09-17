@@ -1,15 +1,9 @@
 
 #### About Me
 
-I am passionate about using data to gain insights into how the world works. I enjoy writing and explaining concept through use of analogies and methaphors.
-
-I am currently seeking an Analytics position. 
-
-I am always looking to expand my skillset and work with cool data. Feel free to reach out for collaborations or inquiries. 
+I am passionate about using data to gain insights into how the world works. I enjoy writing and explaining concept through use of analogies and methaphors. 
 
 email: ariet.dzhumashev@gmail.com 
-
-alt email: ariet5@hotmail.com
 
 [Linked In](https://www.linkedin.com/in/arietd/)
 
